@@ -41,7 +41,7 @@ Configure it by editing `streambot.env`:
 ```
 STREAM_HOST=icecast
 STREAM_PORT=8000
-STREAM_MOUNTPOINT=/streambot.mp3
+STREAM_MOUNTPOINT=/Ajklibra.mp3
 STREAM_USER=streambot
 STREAM_PASS=hackme
 STREAM_NAME=Testing streambot
